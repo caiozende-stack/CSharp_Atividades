@@ -1,0 +1,7 @@
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\bin\Debug\Ex10_Altura.exe.config
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\bin\Debug\Ex10_Altura.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\bin\Debug\Ex10_Altura.pdb
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\obj\Debug\Ex10_Altura.csproj.AssemblyReference.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\obj\Debug\Ex10_Altura.csproj.CoreCompileInputs.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\obj\Debug\Ex10_Altura.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex10_Altura\Ex10_Altura\obj\Debug\Ex10_Altura.pdb

@@ -1,0 +1,7 @@
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\bin\Debug\Ex7_Troca_valores.exe.config
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\bin\Debug\Ex7_Troca_valores.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\bin\Debug\Ex7_Troca_valores.pdb
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\obj\Debug\Ex7_Troca_valores.csproj.AssemblyReference.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\obj\Debug\Ex7_Troca_valores.csproj.CoreCompileInputs.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\obj\Debug\Ex7_Troca_valores.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex7_Troca_valores\Ex7_Troca_valores\obj\Debug\Ex7_Troca_valores.pdb

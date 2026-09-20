@@ -1,0 +1,7 @@
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\bin\Debug\Ex6_Metodo_Pagamento.exe.config
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\bin\Debug\Ex6_Metodo_Pagamento.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\bin\Debug\Ex6_Metodo_Pagamento.pdb
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\obj\Debug\Ex6_Metodo_Pagamento.csproj.AssemblyReference.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\obj\Debug\Ex6_Metodo_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\obj\Debug\Ex6_Metodo_Pagamento.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex6_Metodo_Pagamento\Ex6_Metodo_Pagamento\obj\Debug\Ex6_Metodo_Pagamento.pdb

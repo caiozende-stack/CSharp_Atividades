@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex11_Salario_Liquido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9CD0B0-B176-4B2A-94CA-DC080C68447C}|Ex10_Salario_Liquido\\Ex10_Salario_Liquido.csproj|c:\\users\\caio-\\onedrive\\documentos\\visualstudio\\ex11_salario_liquido\\ex10_salario_liquido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9CD0B0-B176-4B2A-94CA-DC080C68447C}|Ex10_Salario_Liquido\\Ex10_Salario_Liquido.csproj|solutionrelative:ex10_salario_liquido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex11_Salario_Liquido\\Ex10_Salario_Liquido\\Program.cs",
+              "RelativeDocumentMoniker": "Ex10_Salario_Liquido\\Program.cs",
+              "ToolTip": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex11_Salario_Liquido\\Ex10_Salario_Liquido\\Program.cs",
+              "RelativeToolTip": "Ex10_Salario_Liquido\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T14:10:15.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

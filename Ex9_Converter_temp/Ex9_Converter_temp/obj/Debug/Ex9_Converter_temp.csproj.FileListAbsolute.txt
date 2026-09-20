@@ -1,0 +1,7 @@
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\bin\Debug\Ex9_Converter_temp.exe.config
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\bin\Debug\Ex9_Converter_temp.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\bin\Debug\Ex9_Converter_temp.pdb
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\obj\Debug\Ex9_Converter_temp.csproj.AssemblyReference.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\obj\Debug\Ex9_Converter_temp.csproj.CoreCompileInputs.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\obj\Debug\Ex9_Converter_temp.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex9_Converter_temp\Ex9_Converter_temp\obj\Debug\Ex9_Converter_temp.pdb

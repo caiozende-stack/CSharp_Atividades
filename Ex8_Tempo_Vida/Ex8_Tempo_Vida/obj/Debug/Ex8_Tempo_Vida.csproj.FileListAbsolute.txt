@@ -1,0 +1,7 @@
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\bin\Debug\Ex8_Tempo_Vida.exe.config
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\bin\Debug\Ex8_Tempo_Vida.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\bin\Debug\Ex8_Tempo_Vida.pdb
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\obj\Debug\Ex8_Tempo_Vida.csproj.AssemblyReference.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\obj\Debug\Ex8_Tempo_Vida.csproj.CoreCompileInputs.cache
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\obj\Debug\Ex8_Tempo_Vida.exe
+C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex8_Tempo_Vida\Ex8_Tempo_Vida\obj\Debug\Ex8_Tempo_Vida.pdb
