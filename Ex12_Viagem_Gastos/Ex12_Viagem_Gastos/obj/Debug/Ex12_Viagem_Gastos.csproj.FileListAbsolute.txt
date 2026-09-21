@@ -5,3 +5,10 @@ C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex12_Viagem_Gastos\Ex12_Viagem_G
 C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.csproj.CoreCompileInputs.cache
 C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.exe
 C:\Users\caio-\OneDrive\Documentos\VisualStudio\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.pdb
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\bin\Debug\Ex12_Viagem_Gastos.exe.config
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\bin\Debug\Ex12_Viagem_Gastos.exe
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\bin\Debug\Ex12_Viagem_Gastos.pdb
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.csproj.AssemblyReference.cache
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.csproj.CoreCompileInputs.cache
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.exe
+C:\Users\caio.hrfoliveira\Documents\GitHub\CSharp_Atividades\Ex12_Viagem_Gastos\Ex12_Viagem_Gastos\obj\Debug\Ex12_Viagem_Gastos.pdb

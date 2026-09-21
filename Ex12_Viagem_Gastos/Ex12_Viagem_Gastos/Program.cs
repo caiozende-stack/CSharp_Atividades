@@ -24,17 +24,22 @@ namespace Ex12_Viagem_Gastos
             double velocidade_media, distancia, tempo;
 
             Console.WriteLine("Informe o tempo de viagem em horas");
-            tempo=double.Parse(Console.ReadLine());
+            tempo = double.Parse(Console.ReadLine());
             Console.WriteLine("Informe a velocidade média");
             velocidade_media = double.Parse(Console.ReadLine());
 
-            distancia = tempo * velocidade_media;
+            distancia = CalcularDistancia(tempo, velocidade_media);
             combustivel = distancia / 12;
 
             Console.WriteLine($"Nessa viagem voce irá gastar {combustivel:F2} litros de combustível");
 
-
-
         }
+
+        //Função que faz o calculo de distancia
+        static double CalcularDistancia(double tempo, double velocidade_media)
+        {
+            return tempo * velocidade_media;
+        }
+
     }
 }

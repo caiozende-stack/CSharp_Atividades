@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex12_Viagem_Gastos\\",
+  "WorkspaceRootPath": "C:\\Users\\caio.hrfoliveira\\Documents\\GitHub\\CSharp_Atividades\\Ex12_Viagem_Gastos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4358A658-2C0E-43EB-9B52-149E7C2F0116}|Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos.csproj|c:\\users\\caio-\\onedrive\\documentos\\visualstudio\\ex12_viagem_gastos\\ex12_viagem_gastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4358A658-2C0E-43EB-9B52-149E7C2F0116}|Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos.csproj|c:\\users\\caio.hrfoliveira\\documents\\github\\csharp_atividades\\ex12_viagem_gastos\\ex12_viagem_gastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4358A658-2C0E-43EB-9B52-149E7C2F0116}|Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos.csproj|solutionrelative:ex12_viagem_gastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\caio.hrfoliveira\\Documents\\GitHub\\CSharp_Atividades\\Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos\\Program.cs",
               "RelativeDocumentMoniker": "Ex12_Viagem_Gastos\\Program.cs",
-              "ToolTip": "C:\\Users\\caio-\\OneDrive\\Documentos\\VisualStudio\\Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos\\Program.cs",
+              "ToolTip": "C:\\Users\\caio.hrfoliveira\\Documents\\GitHub\\CSharp_Atividades\\Ex12_Viagem_Gastos\\Ex12_Viagem_Gastos\\Program.cs",
               "RelativeToolTip": "Ex12_Viagem_Gastos\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-20T15:01:28.812Z",
               "EditorCaption": ""
